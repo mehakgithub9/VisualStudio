@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>Project 77</title>
+</head>
+<body>
+    <script>
+    console.log("My first console project");
+    var firstn="Mehak";
+    var lastn="Asiya";
+    var full_name=firstn.concat(lastn);
+    console.log(full_name);
+    var value=Math.min(150,90);
+    console.log(value);
+    </script>
+</body>
